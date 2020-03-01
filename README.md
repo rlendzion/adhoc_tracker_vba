@@ -42,4 +42,4 @@ With rgxm
     .Pattern = "[a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+"
 ```
 
-These are just templates and can by modified in ANY way, to meet your needs.
+These are just templates and can be modified in ANY way, to meet your needs.
